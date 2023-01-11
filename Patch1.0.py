@@ -180,7 +180,6 @@ class MultiProcessSave(threading.Thread):
                     break
 
 
-# class main():  # 调试时注释
 class main(threading.Thread):
     def run(self):
         args = parser.parse_args()
