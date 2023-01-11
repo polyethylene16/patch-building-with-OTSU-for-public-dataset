@@ -1,4 +1,4 @@
-# 2022/12/24 Version1.0 Completing the slicing of tissue region by leveraging OTSU algorithm
+# 2023/01/11 Version1.0 Completing the slicing of tissue region by leveraging OTSU algorithm
 
 import argparse
 import openslide
