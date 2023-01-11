@@ -11,3 +11,13 @@ This project is an implementation of the OTSU algorithm for masked segmentation 
     tqdm                 4.64.0
     
     
+## Data Directory
+Before running `patch1.0.py` the dataset needs to be deployed as follows：<br>
+
+        ORIGINAL_DATA/
+	         ├── slide_1.svs
+	         ├── slide_2.svs
+             ├── slide_3.svs
+	         └── ...
+             
+## Result Directory
