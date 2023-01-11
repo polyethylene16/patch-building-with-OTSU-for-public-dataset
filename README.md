@@ -39,3 +39,6 @@ The execution results will be saved in the following structure: <br>
 				├── 1_2.png
 				└── ...
 			 └── ...
+
+## Update
+* 2023/01/11   Version1.0  |  Completing the slicing of tissue region by leveraging OTSU algorithm
