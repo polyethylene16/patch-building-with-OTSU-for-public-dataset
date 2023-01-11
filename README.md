@@ -21,3 +21,20 @@ Before running `patch1.0.py` the dataset needs to be deployed as follows：<br>
 	         └── ...
              
 ## Result Directory
+The execution results will be saved in the following structure: <br>
+		
+		PROCESSED_DATA/
+		         ├── slide_1_20
+			        ├── thumbnail
+				       ├── mask.png
+				       └── thumbnail.png
+				├── 1_1.png
+				├── 1_2.png
+				└── ...
+			 ├── slide_2_20
+			        ├── thumbnail
+				       ├── mask.png
+				       └── thumbnail.png
+				├── 1_1.png
+				├── 1_2.png
+				└── ...
